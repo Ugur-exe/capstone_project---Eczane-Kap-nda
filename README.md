@@ -35,7 +35,7 @@ Model-View-ViewModel (MVVM) Architectural Pattern
 State Management: Provider
 Notifications
 Dependency Injection
-
+<img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/4f0363e4-7a75-444c-8fd3-5b9349f6cf86" alt="Screenshot_1720268144" width="300">
 <img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/f6bc1185-d730-43f8-8668-769b5a35d089" alt="Screenshot_1720268177" width="300">
 
 <img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/3de6abc3-e7d8-4f82-aa93-7d528d230de9" alt="Screenshot_1720268226" width="300">
@@ -50,7 +50,7 @@ Dependency Injection
 
 <img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/4fe4575f-8daf-45e9-864d-22c055b2aeaf" alt="Screenshot_1720268155" width="300">
 
-<img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/4f0363e4-7a75-444c-8fd3-5b9349f6cf86" alt="Screenshot_1720268144" width="300">
+
 
 <img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/b5d47428-3999-46a4-999d-55de25666f32" alt="Screenshot_1720268141" width="300">
 
