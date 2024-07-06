@@ -36,7 +36,7 @@ State Management: Provider
 Notifications
 Dependency Injection
 
-<img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/643b51eb-8397-46b2-83fb-0bb1322951eb" alt="Screenshot_1720268242" width="300">
+<img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/f6bc1185-d730-43f8-8668-769b5a35d089" alt="Screenshot_1720268177" width="300">
 
 <img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/3de6abc3-e7d8-4f82-aa93-7d528d230de9" alt="Screenshot_1720268226" width="300">
 
@@ -44,7 +44,7 @@ Dependency Injection
 
 <img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/07d8dda5-e590-4383-ba7e-00e7868a0de2" alt="Screenshot_1720268184" width="300">
 
-<img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/f6bc1185-d730-43f8-8668-769b5a35d089" alt="Screenshot_1720268177" width="300">
+<img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/643b51eb-8397-46b2-83fb-0bb1322951eb" alt="Screenshot_1720268242" width="300">
 
 <img src="https://github.com/Ugur-exe/capstone_project--Eczane-Kapinda-/assets/99042859/f55793a4-1504-4bf4-9de1-04a2803d783d" alt="Screenshot_1720268168" width="300">
 
